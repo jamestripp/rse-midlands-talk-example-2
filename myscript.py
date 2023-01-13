@@ -1,4 +1,4 @@
 #!/bin/python
-from faker import faker
+from faker import Faker
 fake = Faker()
 print(fake.sentence())
