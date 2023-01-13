@@ -1,4 +1,4 @@
-# RSE Midlands Talk Example 1
+# RSE Midlands Talk Example 2
 
 This repository contains the simple code for generating a Python container. The workflow in [.github/workflows/github_registry.yml](/.github/workflows/github_registry.yml) builds the image and adds it to the github container repository.
 
